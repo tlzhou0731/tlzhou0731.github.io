@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>我的全新 Hugo 网站</title>
         <link>http://tlzhou0731.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 09 Nov 2022 19:32:51 &#43;0800</lastBuildDate>
             <atom:link href="http://tlzhou0731.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First_post</title>
+    <link>http://tlzhou0731.github.io/first_post/</link>
+    <pubDate>Wed, 09 Nov 2022 19:32:51 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://tlzhou0731.github.io/first_post/</guid>
+    <description><![CDATA[loveit aaa bbb ccc 这是第一篇测试博客]]></description>
+</item>
+</channel>
 </rss>
